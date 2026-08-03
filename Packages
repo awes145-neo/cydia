@@ -13,8 +13,6 @@ Description: Pick the right number 20 times in a row to win.
 Author: awes145 <paway723@gmail.com>
 Dev: awes145
 Name: Choices
-Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
-Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
 
 Package: com.awes145.choices
 Version: 1.1-2
@@ -31,8 +29,6 @@ Description: Pick the right number 20 times in a row to win.
 Author: Ian Mathews <paway723@gmail.com>
 Dev: awes145
 Name: Choices
-Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
-Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
 
 Package: com.awes145.choices
 Version: 1.1-3
@@ -40,17 +36,18 @@ Architecture: iphoneos-arm
 Maintainer: Ian Mathews <paway723@gmail.com>
 Depends: firmware (>= 2.0), firmware (<=10.3.4)
 Filename: debs/com.awes145.choices_1.1-3_iphoneos-arm.deb
-Size: 6808
-MD5sum: 24583a4942c57012ac4b88509adfe9d7
-SHA1: 2a9d57f2c1cd79e976c8c75565c2de8baeb6c503
-SHA256: 1bfc6cf5d541243b2233709a61641506f2e04c386032734d82d6811910ae2227
+Size: 6854
+MD5sum: 00475d9fc668634471f73036473d5a17
+SHA1: 9c08b2e7482fdab9a23a654b30c9c5953ffc9b82
+SHA256: b1e23e33b213591dc341f675ef9c3ac178200882c890705cff94dfec4757dd5e
 Section: Games
+Homepage: https://awes145.com/choices
 Description: Pick the right number 20 times in a row to win.
 Author: Ian Mathews <paway723@gmail.com>
-Dev: awes145
-Name: Choices
 Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
+Dev: awes145
 Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
+Name: Choices
 
 Package: com.awes145.choices
 Version: 1.2
@@ -58,14 +55,31 @@ Architecture: iphoneos-arm
 Maintainer: Ian Mathews <paway723@gmail.com>
 Depends: firmware (>= 2.0), firmware (<=10.3.4)
 Filename: debs/com.awes145.choices_1.2_iphoneos-arm.deb
-Size: 7016
-MD5sum: c2d551fdca290583f10a637e22f13b24
-SHA1: 6dee1d7a36795004e0c14429162cd1bafc856b6b
-SHA256: f5636c284ddc2d77411c298c105fbafc61b41cf4f015ea04de8b04bfe598c22d
+Size: 7060
+MD5sum: 7bcc4c095751f1dd6f8a9c866e7c20d0
+SHA1: ee58e5b2d3bcc99612f130c215b9ce4cda0c9ecb
+SHA256: c88728e2ab4bd42a77eee35bd955c2d2ee6d0919b5a15efffd9003e468754ae4
 Section: Games
 Description: Pick the right number 20 times in a row to win.
 Author: Ian Mathews <paway723@gmail.com>
-Dev: awes145
-Name: Choices
 Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
+Dev: awes145
 Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
+Name: Choices
+
+Package: com.awes145.lyes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ian Mathews <paway723@gmail.com>
+Depends: firmware (<=10.3.4)
+Filename: debs/com.awes145.lyes_1.0_iphoneos-arm.deb
+Size: 3738
+MD5sum: 6a281433517f459b752cba8a7306799c
+SHA1: faf304aa84d2daf7de40382eb2ca460d27f990b6
+SHA256: 4b17eecabeaf3a71cf0b4d97f28cecc068f451f1e2a42b15aa3826d11aeb04fb
+Section: Utilities
+Description: Lightweight "yes" command.
+Author: Ian Mathews <paway723@gmail.com>
+Depiction: https://awes145.com/cydia/depictions/com.awes145.lyes/depict.xml
+Dev: awes145
+Name: lyes

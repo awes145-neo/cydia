@@ -1,0 +1,17 @@
+<package>
+    <id>com.awes145.lyes</id>
+    <name>lyes</name>
+    <version>1.0.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>1.0</miniOS>
+            <maxiOS>10.3.4</maxiOS>
+        </firmware>
+    </compatibility>
+    <shortDescription>A lightweight "yes" variant.</shortDescription>
+    <descriptionlist>
+        <description>A lightweight "yes" variant.</description>
+        <description>It only outputs "y". That's it.</description>
+        <description>You are better off just using "yes".</description>
+    </descriptionlist>
+</package>
