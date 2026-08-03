@@ -73,13 +73,13 @@ Architecture: iphoneos-arm
 Maintainer: Ian Mathews <paway723@gmail.com>
 Depends: firmware (<=10.3.4)
 Filename: debs/com.awes145.lyes_1.0_iphoneos-arm.deb
-Size: 3738
-MD5sum: 6a281433517f459b752cba8a7306799c
-SHA1: faf304aa84d2daf7de40382eb2ca460d27f990b6
-SHA256: 4b17eecabeaf3a71cf0b4d97f28cecc068f451f1e2a42b15aa3826d11aeb04fb
+Size: 3740
+MD5sum: 31fa0ac702f2e502f1a78a8126b66abb
+SHA1: 4053e7a37e4182157c190dba346dbad48e1a9581
+SHA256: 3e73d846b010d70914b8bf56878c6daf5e1f85f6381b36283492ed2514b05962
 Section: Utilities
 Description: Lightweight "yes" command.
 Author: Ian Mathews <paway723@gmail.com>
-Depiction: https://awes145.com/cydia/depictions/com.awes145.lyes/depict.xml
+Depiction: https://awes145.com/cydia/depictions/com.awes145.lyes/index.html
 Dev: awes145
 Name: lyes
