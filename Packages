@@ -62,9 +62,9 @@ SHA256: c88728e2ab4bd42a77eee35bd955c2d2ee6d0919b5a15efffd9003e468754ae4
 Section: Games
 Description: Pick the right number 20 times in a row to win.
 Author: Ian Mathews <paway723@gmail.com>
-Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
+Depiction: https://awes145-neo.github.io/cydia/depictions/com.awes145.choices/index.html
 Dev: awes145
-Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
+Icon: https://awes145-neo.github.io/cydia/depictions/com.awes145.choices/choices.png
 Name: Choices
 
 Package: com.awes145.lyes
@@ -80,7 +80,7 @@ SHA256: 3e73d846b010d70914b8bf56878c6daf5e1f85f6381b36283492ed2514b05962
 Section: Utilities
 Description: Lightweight "yes" command.
 Author: Ian Mathews <paway723@gmail.com>
-Depiction: https://awes145.com/cydia/depictions/com.awes145.lyes/index.html
+Depiction: https://awes145-neo.github.io/cydia/depictions/com.awes145.lyes/index.html
 Dev: awes145
 Name: lyes
 
@@ -97,4 +97,5 @@ SHA256: 0e21200f02ec267fc87a14ec752ca8c71f758090a065bd41b639b6102cbf4fb7
 Section: Games
 Description: Port of Toy Story (PC, 1996) to iOS. Needs data files to function.
 Author: Ian Mathews <ianm@awes145.com>
+Depiction: https://awes145-neo.github.io/cydia/depictions/com.awes145.toystory/index.html
 Name: Toy Story
