@@ -83,3 +83,18 @@ Author: Ian Mathews <paway723@gmail.com>
 Depiction: https://awes145.com/cydia/depictions/com.awes145.lyes/index.html
 Dev: awes145
 Name: lyes
+
+Package: com.awes145.toystory
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Ian Mathews <ianm@awes145.com>
+Depends: firmware (>= 5.0), uikittools
+Filename: debs/com.awes145.toystory_0.1_iphoneos-arm.deb
+Size: 5361244
+MD5sum: fcf898c835bb2eff7270fb99b761b043
+SHA1: a9fa1ac6e7c28f7bff7605328163544f929ef282
+SHA256: 0e21200f02ec267fc87a14ec752ca8c71f758090a065bd41b639b6102cbf4fb7
+Section: Games
+Description: Port of Toy Story (PC, 1996) to iOS. Needs data files to function.
+Author: Ian Mathews <ianm@awes145.com>
+Name: Toy Story
