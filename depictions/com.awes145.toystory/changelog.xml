@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog>
+    <changes>
+        <version>1.0</version>
+        <change>Full release with all levels.</change>
+        <change>Fixes the iFile/MobileTerminal like bug where the icons are squares.</change>
+    </changes>
+    <changes>
+        <version>0.1</version>
+        <change>Initial release with the first 9 levels.</change>
+    </changes>
+</changelog>

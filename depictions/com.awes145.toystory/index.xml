@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package>
+    <id>com.awes145.toystory</id>
+    <name>Toy Story</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.0</miniOS>
+            <maxiOS>10.3.4</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>
+        <dependency>uikittools</dependency>
+    </dependencies>
+    <descriptionlist>
+        <description>This is a full reimplementation of the PC version of Toy Story.</description>
+        <description>It contains a reworked engine, so some of the jank from the PC version has been fully cut out.</description>
+        <description>To play this game, you need your own data files. Place your installed "TOYSTORY" folder inside "/var/mobile/Media/ToyStory", and your ripped disc images "ts.bin" and "ts.cue" into that same folder.</description>
+        <description>Use the D-Pad to move, and the two action buttons to play through the game.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Full release with all levels</change>
+    </changelog>
+    <links></links>
+</package>

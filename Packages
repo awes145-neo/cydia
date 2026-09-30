@@ -99,3 +99,19 @@ Description: Port of Toy Story (PC, 1996) to iOS. Needs data files to function.
 Author: Ian Mathews <ianm@awes145.com>
 Depiction: https://awes145-neo.github.io/cydia/depictions/com.awes145.toystory/index.html
 Name: Toy Story
+
+Package: com.awes145.toystory
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ian Mathews <ianm@awes145.com>
+Depends: firmware (>= 5.0), uikittools
+Filename: debs/com.awes145.toystory_1.0_iphoneos-arm.deb
+Size: 5393456
+MD5sum: e3a182b5bbb3a2dcf8fe09ad5b87212f
+SHA1: 6fcd3f5190f4865a3543b5f7c2324c297f3715ab
+SHA256: 08ae21763958fe404897dbe287e25a300fbaad2dfad3a5c41d1dc9a9119b333a
+Section: Games
+Description: Reimplementation of the PC version of Toy Story.
+Author: Ian Mathews <ianm@awes145.com>
+Depiction: https://awes145-neo.github.io/cydia/depictions/com.awes145.toystory/index.xml
+Name: Toy Story
