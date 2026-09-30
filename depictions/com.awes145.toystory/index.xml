@@ -2,7 +2,7 @@
 <package>
     <id>com.awes145.toystory</id>
     <name>Toy Story</name>
-    <version>1.0</version>
+    <version>1.0-1</version>
     <compatibility>
         <firmware>
             <miniOS>5.0</miniOS>
