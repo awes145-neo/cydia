@@ -122,12 +122,12 @@ Architecture: iphoneos-arm
 Maintainer: Ian Mathews <ianm@awes145.com>
 Depends: firmware (>= 5.0), uikittools
 Filename: debs/com.awes145.toystory_1.0-1_iphoneos-arm.deb
-Size: 5393484
-MD5sum: 25e7ea82e6370d3a3cfe2619dd5f36a0
-SHA1: 3ebfb0db571f12eb7d0e0d1b3bab1cfdf4234e15
-SHA256: fb7f68269a74361169b4c25846e2883b5e846df91b1bae4e9f12dbeb65e0a670
+Size: 5393480
+MD5sum: 9b49ccb1f8e1f30fe0e10f996f9c39b4
+SHA1: f7fa5fba7aa6378e5b10837f86afb049fe9ac090
+SHA256: 7c45f0cfa85bd8faba4a10bc7dd52b60bfd5e3b75b4317cabd9af915b9b7b567
 Section: Games
 Description: Reimplementation of the PC version of Toy Story.
 Author: Ian Mathews <ianm@awes145.com>
-Depiction: https://awes145-neo.github.io/cydia/depictions/com.awes145.toystory/index.xml
+Depiction: https://awes145-neo.github.io/cydia/depictions/?p=com.awes145.toystory
 Name: Toy Story
